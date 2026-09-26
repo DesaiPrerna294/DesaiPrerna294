@@ -1,13 +1,21 @@
 # Hi, I'm Prerna Desai 👋
 
-### Aspiring Data Analyst | Python | SQL | Power BI | AI Enthusiast
+### Data Analyst | Python | SQL | Power BI | AI Enthusiast
 
-I am a fresher passionate about data analysis, business insights, and AI-powered solutions. I enjoy turning raw data into meaningful stories and building projects that solve real-world problems.
+I am a fresher passionate about data analysis, business intelligence, and AI-powered problem solving. I enjoy turning raw data into meaningful insights and building projects that help people make smarter decisions.
 
-- 🔍 Interested in: Data Analytics, Business Intelligence, Python, SQL, Dashboards
-- 🌱 Currently learning: Advanced SQL, Machine Learning, Data Visualization
+- 🔍 Interested in: Data Analytics, Dashboarding, Python, SQL, Business Intelligence
+- 🌱 Currently learning: Advanced SQL, Data Visualization, Machine Learning
 - 🎯 Goal: Build impactful projects and start my career in data-driven roles
 - 🤝 Open to: Internships, fresher opportunities, collaborations, and project work
+
+## Experience
+
+### Project-Based Experience in Data Analytics and AI
+- Worked on data exploration and insight generation using Python and SQL
+- Built analytical dashboards and business reporting projects
+- Developed an AI-powered assistant using retrieval-based and generative AI techniques
+- Applied learning to solve real-world problems in retail analytics, publishing insights, and sustainability policy understanding
 
 ## Skills
 
@@ -47,13 +55,13 @@ An AI-powered assistant that explains India’s plastic packaging and EPR rules 
 
 ## Connect with Me
 
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- 📧 Email: your.email@example.com
-- 📁 Resume: [Download Resume](https://your-resume-link.com)
+- 💼 LinkedIn: [Prerna Desai](https://www.linkedin.com/in/prerna-desai/)
+- 📧 Email: prernadesai298@gmail.com
+- 🧠 Portfolio: Working on data and AI projects via GitHub
 
 ## Profile Summary
 
-I am a motivated fresher with a strong interest in analytics, dashboards, and data-driven problem solving. I aim to build a career where I can use data to help businesses make smarter and faster decisions.
+I am a motivated fresher with a strong interest in analytics, dashboards, and data-driven problem solving. I aim to build a career where I can use data and AI to help businesses make smarter decisions and improve outcomes.
 
 ---
 
