@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Prerna Desai - Data Analyst portfolio showcasing projects, skills, experience, and contact information."
+    />
+    <title>Prerna Desai | Data Analyst Portfolio</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="navbar container">
+        <div class="brand">Prerna Desai</div>
+        <div class="nav-links">
+          <a href="#about">About</a>
+          <a href="#skills">Skills</a>
+          <a href="#projects">Projects</a>
+          <a href="#experience">Experience</a>
+          <a href="#contact">Contact</a>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero">
+        <div class="container hero-grid">
+          <div class="hero-copy">
+            <p class="eyebrow">Data Analyst | Power BI | SQL | Python</p>
+            <h1>Turning raw data into business stories.</h1>
+            <p class="intro">
+              I’m Prerna Desai, a fresher data analyst passionate about data
+              storytelling, dashboarding, and AI-powered problem solving. I build
+              dashboards and analytical solutions that convert data into actionable
+              insights.
+            </p>
+            <div class="cta-row">
+              <a class="btn primary" href="#projects">View Projects</a>
+              <a class="btn secondary" href="Prerna_Desai_Resume.tex">Resume</a>
+            </div>
+            <ul class="mini-stats">
+              <li><strong>3+</strong><span>Analytics projects</span></li>
+              <li><strong>4,310+</strong><span>Retail records analyzed</span></li>
+              <li><strong>13K+</strong><span>Books dashboarded</span></li>
+            </ul>
+          </div>
+
+          <div class="hero-card">
+            <div class="card-top">
+              <span class="status-dot"></span>
+              Available for internships & opportunities
+            </div>
+            <div class="profile-box">
+              <div class="avatar">PD</div>
+              <div>
+                <h3>Prerna Desai</h3>
+                <p>Data Analyst</p>
+              </div>
+            </div>
+            <div class="info-list">
+              <p><strong>Email:</strong> prernadesai298@gmail.com</p>
+              <p><strong>Phone:</strong> +91 7021919805</p>
+              <p><strong>Location:</strong> Mumbai, Maharashtra, India</p>
+              <p>
+                <strong>LinkedIn:</strong>
+                <a href="https://linkedin.com/in/prerna-desai" target="_blank" rel="noreferrer">linkedin.com/in/prerna-desai</a>
+              </p>
+              <p>
+                <strong>GitHub:</strong>
+                <a href="https://github.com/DesaiPrerna294" target="_blank" rel="noreferrer">github.com/DesaiPrerna294</a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="about" class="section alt">
+        <div class="container narrow">
+          <div class="section-heading">
+            <p class="eyebrow">About Me</p>
+            <h2>Data-driven thinker with a strong interest in BI and AI</h2>
+          </div>
+          <p>
+            I am an IT graduate and fresher data analyst with hands-on experience in
+            Power BI, Excel, SQL, Python, and dashboard-driven analysis. I have
+            built interactive dashboards, explored real-world business datasets, and
+            developed an AI-powered sustainability assistant using RAG and IBM Granite.
+          </p>
+          <p>
+            My focus is on transforming raw information into meaningful insights,
+            helping businesses make data-backed decisions, and continuously building
+            projects that solve real-world problems.
+          </p>
+        </div>
+      </section>
+
+      <section id="skills" class="section">
+        <div class="container">
+          <div class="section-heading">
+            <p class="eyebrow">Skills</p>
+            <h2>Tools and technologies I work with</h2>
+          </div>
+
+          <div class="skills-grid">
+            <div class="skill-card"><span>Python</span></div>
+            <div class="skill-card"><span>SQL</span></div>
+            <div class="skill-card"><span>Power BI</span></div>
+            <div class="skill-card"><span>Excel</span></div>
+            <div class="skill-card"><span>MySQL</span></div>
+            <div class="skill-card"><span>Pandas</span></div>
+            <div class="skill-card"><span>NumPy</span></div>
+            <div class="skill-card"><span>Matplotlib</span></div>
+            <div class="skill-card"><span>Seaborn</span></div>
+            <div class="skill-card"><span>Data Cleaning</span></div>
+            <div class="skill-card"><span>EDA</span></div>
+            <div class="skill-card"><span>Dashboarding</span></div>
+            <div class="skill-card"><span>RAG</span></div>
+            <div class="skill-card"><span>IBM Granite</span></div>
+            <div class="skill-card"><span>Git & GitHub</span></div>
+          </div>
+        </div>
+      </section>
+
+      <section id="experience" class="section alt">
+        <div class="container">
+          <div class="section-heading">
+            <p class="eyebrow">Experience</p>
+            <h2>Professional and internship exposure</h2>
+          </div>
+
+          <div class="timeline">
+            <article class="timeline-item">
+              <div class="date">Jul 2026 – Sep 2026</div>
+              <div class="content">
+                <h3>AI for Sustainability Virtual Intern</h3>
+                <p class="company">1M1B (1 Million for 1 Billion)</p>
+                <ul>
+                  <li>Built an AI-powered assistant using RAG and IBM Granite to explain plastic packaging and EPR rules.</li>
+                  <li>Applied responsible AI practices including transparency, fairness, privacy, and source-grounded responses.</li>
+                  <li>Worked on sustainability-focused AI solutions with simple, citizen-friendly explanations.</li>
+                </ul>
+              </div>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section id="projects" class="section">
+        <div class="container">
+          <div class="section-heading">
+            <p class="eyebrow">Projects</p>
+            <h2>Selected work</h2>
+          </div>
+
+          <div class="project-grid">
+            <article class="project-card">
+              <div class="project-badge">Excel</div>
+              <h3>BookLens Analytics Dashboard</h3>
+              <p>
+                Analyzed 13,000+ book records covering genres, ratings, languages,
+                reader types, authors, and prices to identify reader behavior and
+                pricing patterns.
+              </p>
+              <ul>
+                <li>Pivot tables and slicers</li>
+                <li>KPI cards and interactive charts</li>
+                <li>Business storytelling via Excel dashboards</li>
+              </ul>
+              <a href="https://github.com/DesaiPrerna294/Booklens-Analytics-Dashboard" target="_blank" rel="noreferrer">View project</a>
+            </article>
+
+            <article class="project-card">
+              <div class="project-badge">Python</div>
+              <h3>Retail Sales EDA</h3>
+              <p>
+                Performed end-to-end exploratory data analysis on retail sales data,
+                including cleaning, trend analysis, and business recommendations.
+              </p>
+              <ul>
+                <li>4,310 rows and 21 columns analyzed</li>
+                <li>Outlier and trend investigation</li>
+                <li>Actionable insights for business decisions</li>
+              </ul>
+              <a href="https://github.com/DesaiPrerna294/-Retails-Sales-EDA-Exploratory-Data-Analysis-" target="_blank" rel="noreferrer">View project</a>
+            </article>
+
+            <article class="project-card">
+              <div class="project-badge">AI</div>
+              <h3>EPR & Plastic Packaging Assistant</h3>
+              <p>
+                Developed a retrieval-based assistant that answers sustainability and
+                compliance questions using RAG and IBM Granite.
+              </p>
+              <ul>
+                <li>TF-IDF + cosine similarity</li>
+                <li>Policy-aware answer generation</li>
+                <li>AI for sustainability and governance</li>
+              </ul>
+              <a href="https://github.com/DesaiPrerna294/EPR-plastic-assistant" target="_blank" rel="noreferrer">View project</a>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section id="education" class="section alt">
+        <div class="container narrow">
+          <div class="section-heading">
+            <p class="eyebrow">Education</p>
+            <h2>Academic background</h2>
+          </div>
+          <div class="education-box">
+            <h3>B.Sc. in Information Technology</h3>
+            <p>University of Mumbai, India</p>
+            <p>CGPA: 8.97 / 10</p>
+          </div>
+        </div>
+      </section>
+
+      <section id="contact" class="section">
+        <div class="container narrow contact-box">
+          <div class="section-heading">
+            <p class="eyebrow">Contact</p>
+            <h2>Let’s connect</h2>
+          </div>
+          <p>
+            I’m open to internships, fresher opportunities, and data-related
+            collaborations.
+          </p>
+          <div class="contact-links">
+            <a href="mailto:prernadesai298@gmail.com">prernadesai298@gmail.com</a>
+            <a href="https://www.linkedin.com/in/prerna-desai/" target="_blank" rel="noreferrer">LinkedIn</a>
+            <a href="https://github.com/DesaiPrerna294" target="_blank" rel="noreferrer">GitHub</a>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-row">
+        <p>© <span id="year"></span> Prerna Desai</p>
+        <p>Built with passion for data and analytics.</p>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
