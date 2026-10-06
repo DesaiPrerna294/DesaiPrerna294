@@ -1,0 +1,107 @@
+\documentclass[10pt,a4paper]{article}
+
+\usepackage[margin=0.7in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\definecolor{accent}{HTML}{1F3A5F}
+
+% Section style
+\titleformat{\section}{\large\bfseries\color{accent}}{}{0em}{}[\vspace{-0.5em}\hrulefill]
+\titlespacing{\section}{0pt}{10pt}{6pt}
+
+% Compact bullets
+\setlist[itemize]{leftmargin=1.2em, itemsep=1pt, topsep=2pt, parsep=0pt}
+
+% Entry: left title, right date
+\newcommand{\entry}[3]{%
+  \textbf{#1} \textbar{} #2 \hfill \textit{#3}\par
+}
+
+\begin{document}
+
+% ---------- HEADER ----------
+\begin{center}
+  {\Huge\bfseries PRERNA DESAI}\\[4pt]
+  {\large\color{accent}\textbf{DATA ANALYST \textbar{} POWER BI \textbar{} SQL \textbar{} PYTHON}}\\[4pt]
+  Mumbai, Maharashtra, India \textbar{} +91 7021919805 \textbar{}
+  \href{mailto:prernadesai298@gmail.com}{prernadesai298@gmail.com} \textbar{}
+  \href{https://linkedin.com/in/prerna-desai}{LinkedIn} \textbar{}
+  \href{https://github.com/DesaiPrerna294}{GitHub}
+\end{center}
+
+% ---------- SUMMARY ----------
+\section{Professional Summary}
+IT graduate and Data Analyst fresher with hands-on experience in Power BI, Excel, SQL, Python, and dashboard-driven analysis. Built interactive dashboards, cleaned and explored real-world datasets, and developed an AI-powered RAG assistant during a virtual sustainability internship. Strong interest in data analytics, business intelligence, and data-driven decision-making.
+
+% ---------- EXPERIENCE ----------
+\section{Experience}
+\entry{AI for Sustainability Virtual Intern}{1M1B (1 Million for 1 Billion)}{Jul 2026 -- Sep 2026}
+\begin{itemize}
+  \item Completed a 3-month virtual internship in collaboration with IBM SkillsBuild and AICTE focused on AI for sustainability.
+  \item Built an AI-powered assistant using retrieval-augmented generation (RAG) and IBM Granite to explain plastic packaging and EPR rules in simple language.
+  \item Applied responsible AI practices including transparency, fairness, privacy, source citation, and non-hallucination safeguards.
+\end{itemize}
+
+% ---------- PROJECTS ----------
+\section{Projects}
+
+\textbf{BookLens Analytics Dashboard} \textbar{} \textit{Excel, Pivot Tables, Slicers, Charts}
+\begin{itemize}
+  \item Analyzed 13,000+ book records covering genres, ratings, languages, reader types, authors, and prices to identify reader and pricing patterns.
+  \item Built an interactive Excel dashboard with PivotTables, slicers, KPI cards, and charts for multi-dimensional reporting and visual storytelling.
+\end{itemize}
+
+\vspace{4pt}
+\textbf{Retail Sales -- Exploratory Data Analysis} \textbar{} \textit{Python, Pandas, NumPy, Matplotlib, Seaborn}
+\begin{itemize}
+  \item Performed end-to-end EDA on 4,310 retail transactions across 21 columns, including data quality checks, date standardization, outlier investigation, and trend analysis.
+  \item Analyzed product/category, region, customer, and time patterns and translated findings into four business recommendations.
+\end{itemize}
+
+\vspace{4pt}
+\textbf{Perfume Sales Analysis} \textbar{} \textit{MySQL, SQL}
+\begin{itemize}
+  \item Designed relational tables and wrote SQL queries using joins, \texttt{GROUP BY}, aggregate functions, subqueries, and window functions to analyze sales and customer behavior.
+  \item Identified top-selling products and revenue trends through structured KPI-focused analysis.
+\end{itemize}
+
+\vspace{4pt}
+\textbf{EPR \& Plastic Packaging Assistant} \textbar{} \textit{Python, Streamlit, scikit-learn, RAG, IBM Granite}
+\begin{itemize}
+  \item Developed a retrieval-based assistant that ranks relevant rule clauses using TF-IDF and cosine similarity before generating source-grounded responses with IBM Granite.
+\end{itemize}
+
+% ---------- SKILLS ----------
+\section{Technical Skills}
+\begin{itemize}[leftmargin=0pt, label={}, itemsep=2pt]
+  \item \textbf{Analytics \& BI:} Power BI, Tableau, Advanced Excel, DAX, KPI Analysis, Dashboarding
+  \item \textbf{SQL \& Databases:} MySQL, SQL Queries, Joins, Subqueries, Window Functions, Relational Database Design
+  \item \textbf{Python:} Python, Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Streamlit
+  \item \textbf{Data \& AI:} Data Cleaning, Data Transformation, Data Modeling, EDA, RAG, IBM Granite, NLP basics
+  \item \textbf{Tools:} Git, GitHub, Jupyter Notebook
+\end{itemize}
+
+% ---------- EDUCATION ----------
+\section{Education}
+\entry{Bachelor of Science (B.Sc.) -- Information Technology}{University of Mumbai, India}{2022 -- 2025}
+CGPA: 8.97 / 10
+
+% ---------- CERTIFICATIONS ----------
+\section{Certifications \& Programs}
+\begin{itemize}
+  \item McKinsey.org Forward Program
+  \item Introduction to SQL
+  \item ChatGPT for Data Science and Machine Learning
+  \item Master in Data Science and Analytics with Artificial Intelligence
+  \item Python for Data Science
+\end{itemize}
+
+\end{document}

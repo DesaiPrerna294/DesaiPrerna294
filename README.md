@@ -26,6 +26,10 @@ I am a fresher passionate about data analysis, business intelligence, and AI-pow
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## Resume
+
+Download my resume here: [Prerna Desai Resume](./Prerna_Desai_Resume.tex)
+
 ## Featured Projects
 
 ### 1. Retail Sales EDA
@@ -61,7 +65,7 @@ An AI-powered assistant that explains India’s plastic packaging and EPR rules 
 
 ## Profile Summary
 
-I am a motivated fresher with a strong interest in analytics, dashboards, and data-driven problem solving. I aim to build a career where I can use data and AI to help businesses make smarter decisions and improve outcomes.
+I am a motivated fresher with a strong interest in analytics, dashboards, and data-driven problem solving. I aim to build a career where I can use data and AI to help businesses make smarter decisions.
 
 ---
 
